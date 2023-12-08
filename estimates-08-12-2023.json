@@ -1,0 +1,76 @@
+{
+    "us": {
+        "Automotive": {
+            "100": {
+                "dailySales": 309,
+                "monthlySales": 9270
+            },
+            "200": {
+                "dailySales": 211,
+                "monthlySales": 6330
+            }
+        },
+        "Arts, Crafts & Sewing": {
+            "100": {
+                "dailySales": 559,
+                "monthlySales": 16770
+            },
+            "200": {
+                "dailySales": 396,
+                "monthlySales": 11880
+            }
+        },
+        "Appliances": {
+            "100": {
+                "dailySales": 17,
+                "monthlySales": 510
+            },
+            "200": {
+                "dailySales": 9,
+                "monthlySales": 270
+            }
+        }
+    },
+    "uk": {
+        "Business, Industry & Science": {
+            "100": {
+                "dailySales": 43,
+                "monthlySales": 1290
+            },
+            "200": {
+                "dailySales": 26,
+                "monthlySales": 780
+            }
+        },
+        "Beauty": {
+            "100": {
+                "dailySales": 325,
+                "monthlySales": 9750
+            },
+            "200": {
+                "dailySales": 233,
+                "monthlySales": 6990
+            }
+        },
+        "Baby Products": {
+            "100": {
+                "dailySales": 230,
+                "monthlySales": 6900
+            },
+            "200": {
+                "dailySales": 134,
+                "monthlySales": 4020
+            }
+        },
+        "Automotive": {
+            "100": {
+                "dailySales": 128,
+                "monthlySales": 3840
+            },
+            "200": {
+                "dailySales": 77,
+                "monthlySales": 2310
+            }
+        }
+    }
+}
